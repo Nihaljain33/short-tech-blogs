@@ -1,0 +1,22 @@
+.navigation-menu {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    height: 3%;
+}
+
+.nj-logo {
+    width: 5%;
+    height: 3%;
+}
+
+.navigation-menu .search-bar{
+    display: flex;
+    justify-content: center;
+    height: 3%;
+}
+.navigation-menu .user{
+    margin-left: auto;
+}

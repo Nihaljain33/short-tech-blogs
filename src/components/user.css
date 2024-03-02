@@ -1,0 +1,17 @@
+.user {
+    display: flex;
+    justify-content: center; /* Align button horizontally */
+    align-items: center; /* Align button vertically */
+    background-color: #000000; /* Set background color of parent */
+}
+
+.login-button {
+    background-color: #060606; /* Set background color of button */
+    color: #fff; /* Set text color to white */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust button padding */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Add cursor pointer */
+    width: 100%; /* Make button width 100% */
+    max-width: 200px; /* Set max-width if needed */
+}
